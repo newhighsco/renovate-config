@@ -49,6 +49,20 @@
     "default": {
       "extends": [
         "default:base"
+      ],
+      "packageRules": [
+        {
+          "updateTypes": [
+            "minor",
+            "patch",
+            "pin",
+            "digest",
+            "lockFileMaintenance",
+            "bump"
+          ],
+          "automerge": true,
+          "automergeType": "branch"
+        }
       ]
     }
   }
