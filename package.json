@@ -12,10 +12,6 @@
   "bugs": {
     "url": "https://github.com/newhighsco/renovate-config/issues"
   },
-  "engines": {
-    "node": "^13.7.0",
-    "yarn": "^1.19.1"
-  },
   "scripts": {
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",
