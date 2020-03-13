@@ -1,6 +1,6 @@
 # renovate-config [![NPM version](https://img.shields.io/npm/v/@newhighsco/renovate-config.svg)](https://www.npmjs.com/package/@newhighsco/renovate-config)
 
-New High Score [shareable config](hhttps://docs.renovatebot.com/config-presets/) for [Renovate](http://renovatebot.com/)
+New High Score [shareable config](https://docs.renovatebot.com/config-presets/) for [Renovate](http://renovatebot.com/)
 
 ## Installation
 
