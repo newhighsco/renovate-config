@@ -56,8 +56,7 @@
             "lockFileMaintenance",
             "bump"
           ],
-          "automerge": true,
-          "automergeType": "branch"
+          "automerge": true
         }
       ]
     }
