@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/newhighsco/renovate-config/compare/v1.1.0...v1.2.0) (2020-03-13)
+
+
+### Features
+
+* **automerge:** create pr rather than branch ([a056c06](https://github.com/newhighsco/renovate-config/commit/a056c064a7492ad52f21cf1f125e87ec07e58c0e))
+
 # [1.1.0](https://github.com/newhighsco/renovate-config/compare/v1.0.0...v1.1.0) (2020-03-12)
 
 
