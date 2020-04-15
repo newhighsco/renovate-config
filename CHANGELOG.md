@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/newhighsco/renovate-config/compare/v1.2.0...v1.2.1) (2020-04-15)
+
+
+### Bug Fixes
+
+* **deps:** bumps lock file ([13da0a7](https://github.com/newhighsco/renovate-config/commit/13da0a7d00a624a143d0b9ebc9bb47b7a04eaa4b))
+
 # [1.2.0](https://github.com/newhighsco/renovate-config/compare/v1.1.0...v1.2.0) (2020-03-13)
 
 
