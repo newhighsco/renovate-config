@@ -72,6 +72,12 @@
             "bump"
           ],
           "automerge": true
+        },
+        {
+          "packagePatterns": [
+            "^@newhighsco"
+          ],
+          "groupName": "New High Score packages"
         }
       ]
     }
