@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/newhighsco/renovate-config/compare/v1.2.1...v1.3.0) (2020-04-16)
+
+
+### Features
+
+* **grouping:** group [@newhighsco](https://github.com/newhighsco) packages into one PR ([3461c6a](https://github.com/newhighsco/renovate-config/commit/3461c6ab6489f6e2da3a1b16a5aaccedf00aa589))
+
 ## [1.2.1](https://github.com/newhighsco/renovate-config/compare/v1.2.0...v1.2.1) (2020-04-15)
 
 
