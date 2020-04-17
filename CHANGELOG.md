@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/newhighsco/renovate-config/compare/v1.3.0...v1.3.1) (2020-04-17)
+
+
+### Bug Fixes
+
+* **docs:** improve grouping of [@newhighsco](https://github.com/newhighsco) packages ([dcc971c](https://github.com/newhighsco/renovate-config/commit/dcc971cbcd64e3594aaa2c9312d2b8fd4ff1fb3f))
+
 # [1.3.0](https://github.com/newhighsco/renovate-config/compare/v1.2.1...v1.3.0) (2020-04-16)
 
 
