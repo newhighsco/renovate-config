@@ -74,10 +74,12 @@
           "automerge": true
         },
         {
+          "description": "Group New High Score packages together",
+          "groupName": "newhighsco packages",
+          "groupSlug": "newhighsco",
           "packagePatterns": [
             "^@newhighsco"
-          ],
-          "groupName": "New High Score packages"
+          ]
         }
       ]
     }
