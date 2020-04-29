@@ -80,6 +80,17 @@
           "packagePatterns": [
             "^@newhighsco"
           ]
+        },
+        {
+          "description": "Group Next.js packages and plugins together",
+          "extends": [
+            "monorepo:nextjs"
+          ],
+          "groupName": "nextjs packages",
+          "groupSlug": "nextjs",
+          "packagePatterns": [
+            "^next"
+          ]
         }
       ]
     }
