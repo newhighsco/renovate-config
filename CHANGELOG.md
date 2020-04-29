@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/newhighsco/renovate-config/compare/v1.3.1...v1.4.0) (2020-04-29)
+
+
+### Features
+
+* **group:** groups Next.js packages and plugins together ([4279595](https://github.com/newhighsco/renovate-config/commit/427959507b27491d9772c869b6d161b051a2b538))
+
 ## [1.3.1](https://github.com/newhighsco/renovate-config/compare/v1.3.0...v1.3.1) (2020-04-17)
 
 
