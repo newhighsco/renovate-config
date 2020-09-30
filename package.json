@@ -54,12 +54,18 @@
   "renovate": {
     "extends": [
       "@newhighsco"
+    ],
+    "branches": [
+      "main"
     ]
   },
   "renovate-config": {
     "default": {
       "extends": [
         "default:base"
+      ],
+      "baseBranches": [
+        "main"
       ],
       "packageRules": [
         {
