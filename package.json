@@ -98,7 +98,8 @@
             "^next"
           ]
         }
-      ]
+      ],
+      "prCreation": "not-pending"
     }
   }
 }
