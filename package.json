@@ -12,6 +12,7 @@
   "bugs": {
     "url": "https://github.com/newhighsco/renovate-config/issues"
   },
+  "files": [],
   "scripts": {
     "pretest": "npm run lint",
     "test": "npm-run-all --parallel test:*",
