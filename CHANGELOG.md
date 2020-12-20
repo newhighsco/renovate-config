@@ -1,3 +1,11 @@
+## [1.4.1](https://github.com/newhighsco/renovate-config/compare/v1.4.0...v1.4.1) (2020-12-20)
+
+
+### Bug Fixes
+
+* adds reviewers ([d75b52e](https://github.com/newhighsco/renovate-config/commit/d75b52ee832df891fdc5c6faa84ab1190963e63e))
+* only create PRs when not pending ([4cb4b5e](https://github.com/newhighsco/renovate-config/commit/4cb4b5e0cffd6d9f66fab09ff71348e35cc982fe))
+
 # [1.4.0](https://github.com/newhighsco/renovate-config/compare/v1.3.1...v1.4.0) (2020-04-29)
 
 
