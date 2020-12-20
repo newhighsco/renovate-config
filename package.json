@@ -99,7 +99,10 @@
           ]
         }
       ],
-      "prCreation": "not-pending"
+      "prCreation": "not-pending",
+      "reviewers": [
+        "team:reviewers"
+      ]
     }
   }
 }
