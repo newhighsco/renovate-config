@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/newhighsco/renovate-config/compare/v1.4.1...v1.4.2) (2021-03-27)
+
+
+### Bug Fixes
+
+* **reviewers:** use full team name ([d7da4af](https://github.com/newhighsco/renovate-config/commit/d7da4af80a50630eb150e6a367fbd5cbfe4fed36))
+
 ## [1.4.1](https://github.com/newhighsco/renovate-config/compare/v1.4.0...v1.4.1) (2020-12-20)
 
 
