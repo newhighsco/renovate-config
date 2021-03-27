@@ -105,7 +105,7 @@
       ],
       "prCreation": "not-pending",
       "reviewers": [
-        "team:reviewers"
+        "team:@newhighsco/reviewers"
       ]
     }
   }
