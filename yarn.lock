@@ -8003,10 +8003,10 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@24.115.1:
-  version "24.115.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-24.115.1.tgz#575be8116becc42eee93cc3ba09ec1b21d516c9e"
-  integrity sha512-c7QcYQ1up2Roim5FefQdCFOfxFUF2JfV6dAYlxfj1ZdD6GNhB4nWaE4oVSkz54WNoV+LAI3DJdkDFTUWb1EYNg==
+renovate@24.116.1:
+  version "24.116.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-24.116.1.tgz#28131dc57243dc13e7b3f432408a6ef7acc003be"
+  integrity sha512-DccwUsWO8X5MpuFHnxNfOwomOBnSuuPRAuHOvpQtvgjX0qJjLv8y+Y5nDMfqv3pUN6ljzWXLBbZQMKzhwBO3Pg==
   dependencies:
     "@aws-sdk/client-ecr" "3.5.0"
     "@breejs/later" "4.0.2"
