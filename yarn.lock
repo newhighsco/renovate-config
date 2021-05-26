@@ -2625,10 +2625,10 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
   dependencies:
     delayed-stream "~1.0.0"
 
-commander@6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-6.2.1.tgz#0792eb682dfbc325999bb2b84fddddba110ac73c"
-  integrity sha512-U7VdrJFnJgo4xjrHpTzu0yrHPGImdsmD95ZlgYSEajAn2JKzDhDTPG9kBTefmObL2w/ngeZnilk+OV9CG3d7UA==
+commander@7.2.0:
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-7.2.0.tgz#a36cb57d0b501ce108e4d20559a150a391d97ab7"
+  integrity sha512-QrWXB+ZQSVPmIWIhtEO9H+gwHaMGYiF5ChvoJ+K9ZGHG/sVsa6yiesAD1GC/x46sET00Xlwo1u49RVVVzvcSkw==
 
 common-ancestor-path@^1.0.1:
   version "1.0.1"
@@ -3207,10 +3207,10 @@ editor@~1.0.0:
   resolved "https://registry.yarnpkg.com/editor/-/editor-1.0.0.tgz#60c7f87bd62bcc6a894fa8ccd6afb7823a24f742"
   integrity sha1-YMf4e9YrzGqJT6jM1q+3gjok90I=
 
-email-addresses@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/email-addresses/-/email-addresses-3.1.0.tgz#cabf7e085cbdb63008a70319a74e6136188812fb"
-  integrity sha512-k0/r7GrWVL32kZlGwfPNgB2Y/mMXVTq/decgLczm/j34whdaspNrZO8CnXPf1laaHxI6ptUlsnAxN+UAPw+fzg==
+email-addresses@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/email-addresses/-/email-addresses-4.0.0.tgz#94fa214c30f943b02eaf91da717d89ff6a19e345"
+  integrity sha512-Nas3sSSiD5lSIoqBos0FMjB9h4clHxXuAahHKGJ5doRWavEB7pBHzOxnI7R5f1MuGNrrSnsZFJ81HCBv0DZmnw==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
@@ -3955,17 +3955,7 @@ fs-constants@^1.0.0:
   resolved "https://registry.yarnpkg.com/fs-constants/-/fs-constants-1.0.0.tgz#6be0de9be998ce16af8afc24497b9ee9b7ccd9ad"
   integrity sha512-y6OAwoSIf7FyjMIv94u+b5rdheZEjzR63GTyZJm5qh4Bi+2YgwLCcI/fPFZkL5PSixOt6ZNKm+w+Hfp/Bciwow==
 
-fs-extra@9.1.0:
-  version "9.1.0"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-9.1.0.tgz#5954460c764a8da2094ba3554bf839e6b9a7c86d"
-  integrity sha512-hcg3ZmepS30/7BSFqRvoo3DOMQu7IjqxO5nCDt+zM9XWjb33Wg7ziNT+Qvqbuc3+gWpzO02JubVyk2G4Zvo1OQ==
-  dependencies:
-    at-least-node "^1.0.0"
-    graceful-fs "^4.2.0"
-    jsonfile "^6.0.1"
-    universalify "^2.0.0"
-
-fs-extra@^10.0.0:
+fs-extra@10.0.0, fs-extra@^10.0.0:
   version "10.0.0"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-10.0.0.tgz#9ff61b655dde53fb34a82df84bb214ce802e17c1"
   integrity sha512-C5owb14u9eJwizKGdchcDUQeFtlSHHthBk8pbX9Vc1PFZrLombudjDnNns88aYslCyF6IY5SUw3Roz6xShcEIQ==
@@ -5050,7 +5040,14 @@ java-properties@^1.0.0:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
   integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
 
-js-yaml@3.14.1, js-yaml@^3.10.0:
+js-yaml@4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.1.0.tgz#c1fb65f8f5017901cdd2c951864ba18458a10602"
+  integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
+  dependencies:
+    argparse "^2.0.1"
+
+js-yaml@^3.10.0:
   version "3.14.1"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.14.1.tgz#dae812fdb3825fa306609a8717383c50c36a0537"
   integrity sha512-okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g==
@@ -5143,10 +5140,10 @@ json-stringify-nice@^1.1.1:
   resolved "https://registry.yarnpkg.com/json-stringify-nice/-/json-stringify-nice-1.1.2.tgz#955040f00eac984ad81b6d2966a07b5a6e19e512"
   integrity sha512-mc0EsmCq4Ru6jTdKtKvzKzGJPa7eUHXe5/WAprXwyYYR1iY2qTcvaw3QBkPKGfJYvRr5vXoaIvMtttM+/f1xOA==
 
-json-stringify-pretty-compact@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/json-stringify-pretty-compact/-/json-stringify-pretty-compact-2.0.0.tgz#e77c419f52ff00c45a31f07f4c820c2433143885"
-  integrity sha512-WRitRfs6BGq4q8gTgOy4ek7iPFXjbra0H3PmDLKm2xnZ+Gh1HUhiKGgCZkSPNULlP7mvfu6FV/mOLhCarspADQ==
+json-stringify-pretty-compact@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/json-stringify-pretty-compact/-/json-stringify-pretty-compact-3.0.0.tgz#f71ef9d82ef16483a407869556588e91b681d9ab"
+  integrity sha512-Rc2suX5meI0S3bfdZuA7JMFBGkJ875ApfVyq2WHELjBiiG22My/l7/8zPpH/CfFVQHuVLd8NLR0nv6vi0BYYKA==
 
 json-stringify-safe@^5.0.1, json-stringify-safe@~5.0.1:
   version "5.0.1"
@@ -7990,10 +7987,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@25.31.0:
-  version "25.31.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-25.31.0.tgz#48f6b0c971752dc4b0acf7347c34e73e04c374a7"
-  integrity sha512-EnUOfSdaQ9NsWww+v5xqEj5j/uTxTM/giWTq71ETgnpyAz+XBXguHAcdOJR7iDRRBTDdjL0VUho9xlgAHpsnKw==
+renovate@25.31.9:
+  version "25.31.9"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-25.31.9.tgz#aacb15b61977ab2a9ff6951193fb5ace991ac695"
+  integrity sha512-yVcN4g85XZVdHK/TU34K0gKVqTjJ5+ISOi/3uxbaQEdQmcEk3D/T+/Qad1gBSFPVSETSIR2XvWuS4hQyFHwZYg==
   dependencies:
     "@aws-sdk/client-ecr" "3.5.0"
     "@breejs/later" "4.0.2"
@@ -8009,17 +8006,17 @@ renovate@25.31.0:
     chalk "4.1.1"
     changelog-filename-regex "2.0.1"
     clean-git-ref "2.0.1"
-    commander "6.2.1"
+    commander "7.2.0"
     conventional-commits-detector "1.0.3"
     crypto-random-string "3.3.1"
     deepmerge "4.2.2"
     delay "5.0.0"
     dequal "2.0.2"
     detect-indent "6.0.0"
-    email-addresses "3.1.0"
+    email-addresses "4.0.0"
     fast-safe-stringify "2.0.7"
     find-up "5.0.0"
-    fs-extra "9.1.0"
+    fs-extra "10.0.0"
     git-url-parse "11.4.4"
     github-url-from-git "1.5.0"
     global-agent "2.2.0"
@@ -8029,9 +8026,9 @@ renovate@25.31.0:
     hasha "5.2.2"
     ignore "5.1.8"
     ini "2.0.0"
-    js-yaml "3.14.1"
+    js-yaml "4.1.0"
     json-dup-key-validator "1.0.3"
-    json-stringify-pretty-compact "2.0.0"
+    json-stringify-pretty-compact "3.0.0"
     json5 "2.2.0"
     luxon "1.27.0"
     markdown-it "12.0.6"
