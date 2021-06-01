@@ -69,25 +69,25 @@
   "renovate-config": {
     "default": {
       "extends": [
-        "default:base"
+        "config:base"
       ],
       "packageRules": [
         {
-          "updateTypes": [
+          "automerge": true,
+          "matchUpdateTypes": [
             "minor",
             "patch",
             "pin",
             "digest",
             "lockFileMaintenance",
             "bump"
-          ],
-          "automerge": true
+          ]
         },
         {
           "description": "Group New High Score packages together",
           "groupName": "newhighsco packages",
           "groupSlug": "newhighsco",
-          "packagePatterns": [
+          "matchPackagePatterns": [
             "^@newhighsco"
           ]
         },
@@ -98,7 +98,7 @@
           ],
           "groupName": "nextjs packages",
           "groupSlug": "nextjs",
-          "packagePatterns": [
+          "matchPackagePatterns": [
             "^next"
           ]
         }
