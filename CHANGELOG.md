@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/newhighsco/renovate-config/compare/v1.4.2...v1.4.3) (2021-06-01)
+
+
+### Bug Fixes
+
+* **config:** migrates to new config pattern ([7d70bca](https://github.com/newhighsco/renovate-config/commit/7d70bcaabe3d7bb8bb9cebfce0b2ea3ccc94d902))
+
 ## [1.4.2](https://github.com/newhighsco/renovate-config/compare/v1.4.1...v1.4.2) (2021-03-27)
 
 
