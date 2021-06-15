@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/newhighsco/renovate-config/compare/v1.4.3...v1.4.4) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** run `yarn upgrade` ([cc6d869](https://github.com/newhighsco/renovate-config/commit/cc6d8699d3eed4051ca988ceea8f97ba82b6017d))
+
 ## [1.4.3](https://github.com/newhighsco/renovate-config/compare/v1.4.2...v1.4.3) (2021-06-01)
 
 
